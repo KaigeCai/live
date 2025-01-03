@@ -8,11 +8,8 @@ http://jpop.bigbradio.net/s
 #EXTINF:0,Big B Radio - 亚洲流行
 http://apop.bigbradio.net/s
 #EXTINF:0,Modern Radio
-http://play.redefine.ltd/Stream1/FM10580.m3u8
 #EXTINF:0,Six Rivers All Hit Radio
-http://54.39.247.236:5670/;
 #EXTINF:0,Today's Hits
-https://26153.live.streamtheworld.com/977_HITS.mp3
 #EXTINF:0,Pop Hits
 https://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:0,Alternative Hits
@@ -35,9 +32,7 @@ https://satcom.rfchosting.ca:8100/stream/1/
 #EXTINF:0,Today's Country Hits
 #EXTINF:0,Coffee House
 #EXTINF:0,电音电台
-http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 #EXTINF:0,古典音乐台
-http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:0,河南新闻广播
 https://stream.hndt.com/live/xinwen/playlist.m3u8
 #EXTINF:0,河南经济广播
@@ -103,7 +98,6 @@ https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 #EXTINF:0,上海第一财经广播
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:0,天津静海区综合广播·交通广播网
-http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
 #EXTINF:0,湖南潇湘之声
 #EXTINF:0,湖南经济广播
 #EXTINF:0,湖南旅游广播·PoPoPod播客电台
@@ -232,7 +226,6 @@ https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
 #EXTINF:0,宁波新闻综合广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
 #EXTINF:0,宁波老少广播·阳光904
-http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
 #EXTINF:0,宁波交通广播
 http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
 #EXTINF:0,宁波经济广播
@@ -247,7 +240,6 @@ http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
 #EXTINF:0,羊城交通广播
 #EXTINF:0,深圳交通广播
 #EXTINF:0,惠州综合广播
-http://stream.hztvmg.com/gbtest2/sd/live.m3u8
 #EXTINF:0,海南新闻广播
 #EXTINF:0,海南交通广播
 #EXTINF:0,四川经济广播
@@ -384,7 +376,6 @@ https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
 #EXTINF:0,益阳之声
 #EXTINF:0,益阳交通频道·汽车881
 #EXTINF:0,开州之声
-http://183.64.174.171:10124/tlgb.m3u8
 #EXTINF:0,山西健康之声广播
 rtmp://radiolive.sxrtv.com/live/jiankang
 #EXTINF:0,山西农村广播
@@ -402,7 +393,6 @@ rtmp://radiolive.sxrtv.com/live/gushi
 #EXTINF:0,宜昌新闻综合广播
 #EXTINF:0,宜昌交通广播
 #EXTINF:0,欢乐调频
-http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
 #EXTINF:0,房山电台
 http://live.funhillrm.com/3/sd/live.m3u8
 #EXTINF:0,维吾尔语广播
@@ -417,25 +407,15 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world
 #EXTINF:0,AP
 #EXTINF:0,FOX News Radio
 #EXTINF:0,CNN
-http://tunein.streamguys1.com/cnn-new
 #EXTINF:0,CNN International
-http://tunein.ord.streamguys1.com/secure-CNNi
 #EXTINF:0,Al Jazeera
-http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:0,CNBC
-http://tunein.streamguys1.com/cnbc
 #EXTINF:0,MSNBC
-http://tunein.ord.streamguys1.com/secure-msnbc-premium
 #EXTINF:0,Bloomberg TV
-http://tunein.streamguys1.com/BloombergTV
 #EXTINF:0,ESPN
-http://tunein.streamguys1.com/ESPNTV
 #EXTINF:0,ESPN Radio
-http://tunein.streamguys1.com/ESPNRadio
 #EXTINF:0,VOA Global English
-https://voaaudio-lh.akamaihd.net/i/PACKVOA161_352R@825053/master.m3u8
 #EXTINF:0,VOA Newscasts
-https://voaaudio-lh.akamaihd.net/i/PACKVOA155_233L@824354/master.m3u8
 #EXTINF:0,BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
 #EXTINF:0,BBC Radio 1Xtra
@@ -443,7 +423,6 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bb
 #EXTINF:0,BBC Radio 1 Dance
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
 #EXTINF:0,BBC Radio 1 relax
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
 #EXTINF:0,BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
 #EXTINF:0,BBC Radio 3
@@ -457,13 +436,10 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_rad
 #EXTINF:0,BBC Radio 6
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 #EXTINF:0,POP Radio 台北流行广播电台
-http://149.129.100.78:8000/popradio
 #EXTINF:0,POP Radio 好听广播电台
-http://149.129.100.78:8000/pop907
 #EXTINF:0,A-line Radio 网路音乐台
 http://radio.apple-line.com:987/radio-data/alinePlayer.php
 #EXTINF:0,HitFM联播网|台北之音
-http://149.129.100.78:8000/hitfm
 #EXTINF:0,M-Radio全国广播
 http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:0,全国治安交通网
@@ -477,13 +453,11 @@ http://fm971.cityfm.tw:8080/971.mp3
 #EXTINF:0,CityFM|大苗栗广播
 http://fm983.cityfm.tw:8080/983.mp3
 #EXTINF:0,hi radio
-http://stream.rcs.revma.com/m5vcf26np7zuv
 #EXTINF:0,正义电台
 http://211.20.119.103:8081
 #EXTINF:0,太阳电台
 http://211.20.119.102:8081
 #EXTINF:0,Ai FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
 #EXTINF:0,台北广播电台FM93.1
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:0,台北广播电台AM1134
@@ -501,15 +475,10 @@ http://stream.rcs.revma.com/55tyxsy4qtzuv
 #EXTINF:0,飞碟电台
 http://stream.rcs.revma.com/em90w4aeewzuv
 #EXTINF:0,澳门电台
-https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
 #EXTINF:0,宝岛联播网|宝岛新声
-http://stream.superfm990.com.tw:8555
 #EXTINF:0,宝岛联播网|大千电台
-http://stream.superfm990.com.tw:8554
 #EXTINF:0,RTI国语
-https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 #EXTINF:0,RTI音乐
-https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 #EXTINF:0,国立教育电台
 http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
 #EXTINF:0,台湾古典音乐台
@@ -519,11 +488,8 @@ http://api.kiss.com.tw/test/hichannel2.php?api=2
 #EXTINF:0,CAPITAL 958
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:0,988友声有色
-http://23023.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:0,MY
-https://astro1.rastream.com/myfm
 #EXTINF:0,one FM
-https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:0,好FM
 https://22283.live.streamtheworld.com/HAO_963AAC.aac
 #EXTINF:0,YES 933
@@ -535,43 +501,34 @@ https://22243.live.streamtheworld.com/UFM_1003AAC_SC
 #EXTINF:0,法国国际广播电台
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:0,俄罗斯卫星通讯社
-http://icecast-ruvr.cdnvideo.ru/rian.voicechi
 #EXTINF:0,美国之音
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:0,自由亚洲电台
-http://rfimonde-lh.akamaihd.net/i/rfimonde_1@412456/index_128_a-p.m3u8
 #EXTINF:0,CNA 938
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:0,Eclectic24
-https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
 #EXTINF:0,VOCALO
 https://stream.wbez.org/vocalolinear
 #EXTINF:0,NPR·WUNC
-http://216.246.39.189/wunc-source
 #EXTINF:0,NPR·KJZZ
 http://kjzz.streamguys1.com/kjzz_aac_high
 #EXTINF:0,NPR·WLRN
-https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
 #EXTINF:0,NPR·WBEZ
 http://stream.wbez.org/wbezlinear
 #EXTINF:0,NPR·HPM News
-http://stream.houstonpublicmedia.org/news-aac-256
 #EXTINF:0,NPR·MPR News
 http://nis.stream.publicradio.org/nis.mp3
 #EXTINF:0,NPR·KCRW News
-http://kcrw.streamguys1.com/kcrw_192k_mp3_news
 #EXTINF:0,NPR·WOSU
 http://wosu.streamguys1.com/NPR_256
 #EXTINF:0,NPR·KQED
 http://hls.kqed.org/kqed/256/playlist.m3u8
 #EXTINF:0,NPR·WAMU
-http://hls0.wamu.org/itunes/256/playlist.m3u8
 #EXTINF:0,NPR·WBUR
 http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8
 #EXTINF:0,NPR·KPBS
 http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
 #EXTINF:0,NPR·KUT
-http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
 #EXTINF:0,NPR·CPR
 https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8
 #EXTINF:0,NPR·KWMU
@@ -581,7 +538,6 @@ http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
 #EXTINF:0,NPR·WUWM
 http://wuwm.streamguys1.com/live
 #EXTINF:0,NPR·NHPR
-http://205.234.238.46/nhpr-256-source.aac
 #EXTINF:0,阿里郎电台(视频)
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:0,阿里郎电台(音频)
@@ -597,13 +553,11 @@ https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:0,北京经典969
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:0,旅游之声
-http://starfish.bj.aliyun.007.qingting.fm:8000/fm98.7lvyouzhisheng
 #EXTINF:0,陕西音乐广播
 https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:0,陕西青少广播·好听1055
 https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
 #EXTINF:0,苏州都市音乐广播
-http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 #EXTINF:0,山东音乐广播
 https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:0,山东经典音乐广播
@@ -617,15 +571,10 @@ http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b8
 #EXTINF:0,湖南文艺广播·摩登音乐台
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:0,惠州音乐广播
-http://stream.hztvmg.com/test17/playlist.m3u8
 #EXTINF:0,宜昌音乐生活广播
-http://playfmaliyun.3xgd.com/fm/qct.m3u8
 #EXTINF:0,江西旅游广播iFM97.4
-http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_pyhgb_aac.m3u8
 #EXTINF:0,江西故事广播·潮台969
-http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969_aac.m3u8
 #EXTINF:0,山西音乐广播
-https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
 #EXTINF:0,内蒙古音乐之声
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:0,湖北经典音乐广播
@@ -645,7 +594,6 @@ https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
 #EXTINF:0,四川岷江音乐
 https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 #EXTINF:0,厦门音乐广播
-http://live1.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
 #EXTINF:0,楚天音乐广播
 https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 #EXTINF:0,江苏音乐广播
@@ -679,13 +627,10 @@ https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
 #EXTINF:0,福建汽车音乐广播
 https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
 #EXTINF:0,哈尔滨古典音乐广播
-http://pull.hrbtv.net/tv/12.m3u8
 #EXTINF:0,福州音乐广播
 http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 #EXTINF:0,成都文化休闲广播·radio946
-http://149.129.100.78/cdgb.php?id=433-20
 #EXTINF:0,WHIZ Radio 海口音乐广播
-http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
 #EXTINF:0,青岛音体广播
 http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
 #EXTINF:0,青岛摩登音乐调频
@@ -695,22 +640,17 @@ https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
 #EXTINF:0,青海交通音乐广播
 https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #EXTINF:0,北京音乐广播
-http://audiolive2.rbc.cn:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:0,武汉音乐广播
 http://stream.appwuhan.com/yypdzb/sd/live.m3u8
 #EXTINF:0,武汉青少广播·M-radio
 http://stream.appwuhan.com/sepdzb/sd/live.m3u8
 #EXTINF:0,Heart FM 乐动1056
 #EXTINF:0,长沙城市之声
-http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
 #EXTINF:0,长沙音乐广播
-http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 #EXTINF:0,长沙交通广播
-http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 #EXTINF:0,CGTN Radio,
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:0,CRI世界华声
-https://live-play.cctvnews.cctv.com/cctv/zgzs192.m3u8
 #EXTINF:0,CNR深圳旁边之声
 #EXTINF:0,CNR维吾尔语广播
 #EXTINF:0,CNR藏语广播
@@ -728,7 +668,6 @@ http://funradio.cn:8000/funradio
 #EXTINF:0,AsiaFM HD音乐
 http://asiafm.hk:8000/asiahd
 #EXTINF:0,沐耳电台
-http://mplay.muearfm.cn/muearfm/fm666.m3u8
 #EXTINF:0,动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:0,潮流音悦台
@@ -736,7 +675,6 @@ http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:0,警广之声
 http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
 #EXTINF:0,天籁之音-经典正流行
-http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
 #EXTINF:0,天籁之音 Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 #EXTINF:0,天籁之音-国风
@@ -756,7 +694,6 @@ http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:0,卷卷猫电台
 http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
 #EXTINF:0,有声文摘
-http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 #EXTINF:0,安全百科
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
 #EXTINF:0,民谣音乐
@@ -768,21 +705,14 @@ http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 #EXTINF:0,国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 #EXTINF:0,京津冀之声
-http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 #EXTINF:0,北京新闻广播
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:0,北京交通广播
-http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
 #EXTINF:0,北京青年广播
-http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 #EXTINF:0,北京外语广播
-http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
 #EXTINF:0,北京城市广播·副中心之声
-http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
 #EXTINF:0,北京文艺广播
-http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
 #EXTINF:0,北京故事广播
-http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
 http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
 #EXTINF:0,湖北农村广播
 http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
@@ -797,13 +727,9 @@ http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
 #EXTINF:0,河南农村广播大象资讯台
 http://satellitepull.cnr.cn/live/wxhnncgb/playlist.m3u8
 #EXTINF:0,厦门综合广播
-https://live2.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
 #EXTINF:0,厦门旅游广播
-https://live2.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
 #EXTINF:0,厦门经济交通广播
-https://live2.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
 #EXTINF:0,厦门闽南之声
-https://live2.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
 #EXTINF:0,黑龙江生活广播
 http://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
 #EXTINF:0,陕西音乐广播·快乐988
@@ -811,7 +737,6 @@ http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:0,北京经典969,
 http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 #EXTINF:0,新疆音乐广播MixFM1039
-http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
 #EXTINF:0,PlayFM甬江之声
 http://netlive.zhxwzx.com/live/1001.m3u8
 #EXTINF:0,深圳飞扬971,
@@ -827,15 +752,10 @@ http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
 #EXTINF:0,烟台音乐广播
 http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
 #EXTINF:0,CCTV新科动漫
-http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,中国教育1
-https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,中国教育2
-https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,中国教育3
-https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,中国教育4
-https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,V0A0
 https://stream.radiojar.com/t2n88q0st5quv
 #EXTINF:0,北京新闻
@@ -849,31 +769,23 @@ https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=aud
 #EXTINF:0,北京财经,
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,北京冬奥纪实
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,北京生活
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:0,北京青年
-https://piccpndks.v.kcdnvip.com/audio/btv8_2.m3u8
 #EXTINF:0,第一财经
 http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 #EXTINF:0,河北汽车音乐台
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
 #EXTINF:0,合肥文艺广播
-https://hylive.hfbtv.com/lsdream/3kJdo0U/1000/live.m3u8
 #EXTINF:0,金陵之声
 http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
 #EXTINF:0,开封音乐广播
 http://live.dxhmt.cn:9081/gb/10200-4.m3u8
 #EXTINF:0,扬州经济音乐广播
-http://live.cooltv.top/tv/yz.php?id=jjyy
 #EXTINF:0,常州音乐广播
-http://live.cooltv.top/tv/cz.php?id=fm935
 #EXTINF:0,太原音乐广播
-http://live.cooltv.top/tv/cutv.php?id=tyyygb
 #EXTINF:0,杭州城市资讯广播
-http://live.cooltv.top/tv/hz.php?id=23
 #EXTINF:0,石家庄音乐广播
-http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
 #EXTINF:0,CRI南海之声,
 #EXTINF:0,CRI世界华声,
 #EXTINF:0,CRI轻松调频,
@@ -946,7 +858,6 @@ http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 #EXTINF:0,北京文艺广播,
 #EXTINF:0,北京故事广播,
 #EXTINF:0,北京体育广播,
-http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
 #EXTINF:0,江苏故事广播,
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:0,江苏新闻综合广播,
@@ -1023,9 +934,7 @@ http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
 #EXTINF:0,江西农村广播·绿色985,
 http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
 #EXTINF:0,山东综合广播,
-http://live-hls.ihzlh.linker.cc/ihzlh/sd_ts01_95.m3u8
 #EXTINF:0,山东文艺广播,
-http://live-hls.ihzlh.linker.cc/ihzlh/sd_ts03_975.m3u8
 #EXTINF:0,山东交通广播,
 http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
 #EXTINF:0,山东体育休闲广播,
@@ -1145,11 +1054,8 @@ http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
 #EXTINF:0,福州交通之声,
 #EXTINF:0,福州新闻广播,
 #EXTINF:0,雅安综合广播,
-https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
 #EXTINF:0,雅安交通旅游广播,
-https://m3u8channel.wuxianyaan.com/cms/audios/nmip-media/audiolive/audio12/playlist.m3u8
 #EXTINF:0,徐州新闻综合广播,
-http://stream1.huaihai.tv/aac_gbfm93/playlist.m3u8
 #EXTINF:0,黑龙江新闻广播,
 http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 #EXTINF:0,黑龙江交通广播,
@@ -1236,16 +1142,12 @@ http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
 #EXTINF:0,青海经济广播,
 http://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
 #EXTINF:0,益阳之声,
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm997.m3u8
 #EXTINF:0,益阳交通频道·汽车881,
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm881.m3u8
 #EXTINF:0,开州之声,
 #EXTINF:0,欢乐调频,
 #EXTINF:0,房山电台,
 #EXTINF:0,CNR音乐之声,
-http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
 #EXTINF:0,CNR经典音乐广播,
-http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
 #EXTINF:0,安徽音乐广播,
 http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
 #EXTINF:0,陕西音乐广播·快乐988,
@@ -1282,7 +1184,6 @@ http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
 #EXTINF:0,四川岷江音乐,
 http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
 #EXTINF:0,厦门音乐广播,
-http://live2.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
 #EXTINF:0,楚天音乐广播,
 http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 #EXTINF:0,江苏音乐广播,
@@ -1333,21 +1234,15 @@ http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
 #EXTINF:0,河北汽车音乐台,
 #EXTINF:0,合肥文艺广播,
 #EXTINF:0,北京音乐广播,
-http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
 #EXTINF:0,山西音乐广播,
-http://live.cooltv.top/tv/cutv.php?id=sxyygb
 #EXTINF:0,宜昌音乐生活广播,
-http://play.3xgd.com/fm/qct.m3u8
 #EXTINF:0,金陵之声,
 http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/4/224/3221227940/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
-http://scgctvshow.sctv.com/SRTRADIO/live/minjiangmusic/1.m3u8
 #EXTINF:0,开封音乐广播,
 #EXTINF:0,成都文化休闲广播·radio946,
-http://live.cooltv.top/tv/cdgb.php?id=433-20
 #EXTINF:0,扬州经济音乐广播,
 #EXTINF:0,常州音乐广播,
 #EXTINF:0,苏州都市音乐广播,
-http://live.cooltv.top/tv/szradio.php?id=szdsyygb
 #EXTINF:0,太原音乐广播,
 #EXTINF:0,杭州城市资讯广播,
 #EXTINF:0,石家庄音乐广播,

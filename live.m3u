@@ -25,27 +25,29 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-7-CQ/G_CCTV-7-CQ
 http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ
 #EXTINF:0,CCTV-9 记录
 http://223.110.241.204:6610/gitv/live1/G_CCTV-9-CQ/G_CCTV-9-CQ
-#EXTINF:0,CCTV00 科教
+#EXTINF:0,CCTV-10 科教
 http://223.110.241.204:6610/gitv/live1/G_CCTV00-CQ/G_CCTV00-CQ
-#EXTINF:0,CCTV01 戏曲
+#EXTINF:0,CCTV-11 戏曲
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:0,CCTV02 社会与法
+#EXTINF:0,CCTV-12 社会与法
 http://223.110.241.204:6610/gitv/live1/G_CCTV02-CQ/G_CCTV02-CQ
-#EXTINF:0,CCTV03 新闻
+#EXTINF:0,CCTV-13 新闻
 http://223.110.241.204:6610/gitv/live1/G_CCTV03-CQ/G_CCTV03-CQ
-#EXTINF:0,CCTV04 少儿
+#EXTINF:0,CCTV-14 少儿
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
-#EXTINF:0,CCTV05 音乐
+#EXTINF:0,CCTV-15 音乐
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:0,CCTV06 奥林匹克 4K
+#EXTINF:0,CCTV-16 奥林匹克 4K
 http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:0,CCTV07 农业农村
+#EXTINF:0,CCTV-17 农业农村
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:0,欢笑剧场 4K
 #EXTINF:0,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:0,FASHION TV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0,Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,香港 翡翠台
 #EXTINF:0,香港 无线新闻台
 #EXTINF:0,CCTV·风云足球
@@ -53,6 +55,23 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:0,CCTV·女性时尚
 http://ott.mobaibox.com/PLTV/4/224/3221227026/index.m3u8
+#EXTINF:0,CCTV·央视台球
+#EXTINF:0,CCTV·怀旧剧场
+#EXTINF:0,CCTV·电视指南
+#EXTINF:0,CCTV·第一剧场
+#EXTINF:0,CCTV·风云音乐
+#EXTINF:0,CCTV·兵器科技
+#EXTINF:0,CGTN
+http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:0,CGTN·英语
+#EXTINF:0,CGTN·记录
+#EXTINF:0,CGTN·俄语
+#EXTINF:0,CGTN·法语
+#EXTINF:0,CGTN·西语
+#EXTINF:0,CGTN·阿语
+#EXTINF:0,CGTN·Europe
+#EXTINF:0,CCTV·女时尚
+#EXTINF:0,CGTN·纪录
 #EXTINF:0,北京卫视
 http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 #EXTINF:0,安徽卫视
@@ -64,7 +83,9 @@ http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
 #EXTINF:0,湖北卫视
 http://223.110.241.204:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
 #EXTINF:0,湖南卫视
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
 #EXTINF:0,江苏卫视
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
 #EXTINF:0,辽宁卫视
 http://223.110.241.204:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
 #EXTINF:0,山东卫视
@@ -86,6 +107,14 @@ http://ott.mobaibox.com/PLTV/4/224/3221225947/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221225949/index.m3u8
 #EXTINF:0,徐州·4
 http://ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
+#EXTINF:0,睢宁三农
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:0,睢宁生活教育
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
+#EXTINF:0,睢宁综合
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:0,睢宁资讯
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
 #EXTINF:0,福建卫视
 #EXTINF:0,广西卫视
 http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/
@@ -215,14 +244,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #EXTINF:0,中央新影·老故事
 http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:0,中央新影·发现之旅
-#EXTINF:0,睢宁三农
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
-#EXTINF:0,睢宁生活教育
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
-#EXTINF:0,睢宁综合
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
-#EXTINF:0,睢宁资讯
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
 #EXTINF:0,福建综合
 #EXTINF:0,福建新闻
 #EXTINF:0,福建电视剧
@@ -329,8 +350,6 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:0,河北影视剧
 #EXTINF:0,河北杂技
 #EXTINF:0,延边卫视
-#EXTINF:0,CCTV·女时尚
-#EXTINF:0,CGTN纪录
 #EXTINF:0,SiTV欢笑剧场
 #EXTINF:0,中国教育1
 #EXTINF:0,咪咕直播
@@ -352,7 +371,6 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:0,河北农民
 #EXTINF:0,山东农科
 #EXTINF:0,山东齐鲁
-#EXTINF:0,山东体育
 #EXTINF:0,山东综艺
 #EXTINF:0,山东新闻
 #EXTINF:0,山东生活
@@ -614,7 +632,6 @@ https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:0,緯來日本台
 #EXTINF:0,緯來育樂台
 #EXTINF:0,ABC News(澳大利亚)
-#EXTINF:0,CGTN Europe
 #EXTINF:0,FOX Live Now
 #EXTINF:0,NHK·华语世界(日本)
 #EXTINF:0,RT News(俄罗斯)
@@ -739,13 +756,16 @@ https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=28201805160
 #EXTINF:0,金山
 https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
 #EXTINF:0,金砖电视
-#EXTINF:0,CGTN记录
-#EXTINF:0,CGTN俄语
-#EXTINF:0,CGTN法语
-#EXTINF:0,CGTN西语
-#EXTINF:0,CGTN阿语
 #EXTINF:0,亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0,CETV·1
+http://223.110.241.204:6610/gitv/live1/G_CETV0/G_CETV0/
+#EXTINF:0,CETV·2
+http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
+#EXTINF:0,CETV·3
+http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:0,CETV·4
+http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:0,NBC
 #EXTINF:0,PAC 12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
@@ -755,16 +775,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0,AL Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0,CGTN
-http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-#EXTINF:0,CETV1
-http://223.110.241.204:6610/gitv/live1/G_CETV0/G_CETV0/
-#EXTINF:0,CETV2
-http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
-#EXTINF:0,CETV3
-http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
-#EXTINF:0,CETV4
-http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:0,TRT World
 #EXTINF:0,Afarin Kids TV
 #EXTINF:0,NHK World
@@ -815,7 +825,6 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0,MSNBC 
 #EXTINF:0,NBC NEWS F
 #EXTINF:0,NBC News Now F
-#EXTINF:0,CGTN英语
 #EXTINF:0,韩·BBS佛教
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:0,韩·SBS
