@@ -5,7 +5,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:0,CCTV-4K UHD
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:0,CCTV0 综合
+#EXTINF:0,CCTV-1 综合
 http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
 #EXTINF:0,CCTV-2 财经
 http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ
@@ -26,13 +26,13 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ
 #EXTINF:0,CCTV-9 记录
 http://223.110.241.204:6610/gitv/live1/G_CCTV-9-CQ/G_CCTV-9-CQ
 #EXTINF:0,CCTV-10 科教
-http://223.110.241.204:6610/gitv/live1/G_CCTV00-CQ/G_CCTV00-CQ
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-CQ/G_CCTV-10-CQ
 #EXTINF:0,CCTV-11 戏曲
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:0,CCTV-12 社会与法
-http://223.110.241.204:6610/gitv/live1/G_CCTV02-CQ/G_CCTV02-CQ
+http://223.110.241.204:6610/gitv/live1/G_CCTV-12-CQ/G_CCTV-12-CQ
 #EXTINF:0,CCTV-13 新闻
-http://223.110.241.204:6610/gitv/live1/G_CCTV03-CQ/G_CCTV03-CQ
+http://223.110.241.204:6610/gitv/live1/G_CCTV-13-CQ/G_CCTV-13-CQ
 #EXTINF:0,CCTV-14 少儿
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 #EXTINF:0,CCTV-15 音乐
