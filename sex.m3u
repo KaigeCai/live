@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:0,MyCamTV Teen Girls     
+#EXTINF:0,香蕉2台
+http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+#EXTINF:0,潘朵拉
+http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+#EXTINF:0,松视2台
+http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+#EXTINF:0,松视3台
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+#EXTINF:0,Miami TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:0,VISIT-X
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:0,MyCamTV Teen Girls
 http://live.mycamtv.com/teen.m3u8
 #EXTINF:0,MyCamTV MILF
 http://live.mycamtv.com/milf.m3u8
