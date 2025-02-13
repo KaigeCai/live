@@ -52,17 +52,34 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,香港 翡翠台
 #EXTINF:0,香港 无线新闻台
+#EXTINF:0,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:0,香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:0,CCTV·风云足球
-#EXTINF:0,CCTV·高尔夫网球
+http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
+#EXTINF:0,CCTV·风云音乐
+#EXTINF:0,CCTV·风云剧场
+#EXTINF:0,CCTV·高尔夫·网球
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:0,CCTV·女性时尚
-http://ott.mobaibox.com/PLTV/4/224/3221227026/index.m3u8
+http://180.213.174.225:9901/tsfile/live/1054_1.m3u8
 #EXTINF:0,CCTV·央视台球
+http://180.213.174.225:9901/tsfile/live/1057_1.m3u8
 #EXTINF:0,CCTV·怀旧剧场
+http://180.213.174.225:9901/tsfile/live/1049_1.m3u8
+#EXTINF:0,CCTV·央视文化精品
+http://180.213.174.225:9901/tsfile/live/1053_1.m3u8
+#EXTINF:0,CCTV·娱乐
 #EXTINF:0,CCTV·电视指南
+#EXTINF:0,CCTV·中视购物
+#EXTINF:0,CCTV·卫生健康
 #EXTINF:0,CCTV·第一剧场
-#EXTINF:0,CCTV·风云音乐
+http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8
+#EXTINF:0,CCTV·世界地理
+http://171.117.183.51:9003//hls/59/index.m3u8
 #EXTINF:0,CCTV·兵器科技
+http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
 #EXTINF:0,CGTN·英语
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:0,CGTN·俄语
@@ -177,13 +194,13 @@ http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:0,咪咕视频
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:0,广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:0,广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:0,广州影视
-http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:0,广州南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+http://tencentplay.gztv.com/live/nanguodushi.m3u8
 #EXTINF:0,中国功夫
 http://ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
 #EXTINF:0,爱情喜剧
@@ -220,6 +237,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:0,怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:0,家有购物
+http://58.221.214.82:9901/tsfile/live/0013_2.m3u8
 #EXTINF:0,海峡卫视
 #EXTINF:0,康巴卫视
 #EXTINF:0,三沙卫视
@@ -302,29 +321,16 @@ http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:0,CHC高清电影
 #EXTINF:0,CHC动作电影
 #EXTINF:0,CHC家庭影院
-#EXTINF:0,风云剧场
-#EXTINF:0,风云音乐
-#EXTINF:0,风云足球
-#EXTINF:0,央视台球
-#EXTINF:0,怀旧剧场
-#EXTINF:0,第一剧场
-#EXTINF:0,高尔夫网球
-#EXTINF:0,文化精品
-#EXTINF:0,兵器科技
 #EXTINF:0,凤凰中文
 #EXTINF:0,凤凰资讯
 #EXTINF:0,明珠台
 #EXTINF:0,澳视澳门
 #EXTINF:0,星空卫视
 #EXTINF:0,澳亚卫视
-#EXTINF:0,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0,莲花卫视
 #EXTINF:0,人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:0,长城精品
-#EXTINF:0,香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:0,山东体育
 #EXTINF:0,南国都市
 #EXTINF:0,成都公共
@@ -518,7 +524,7 @@ http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 #EXTINF:0,江苏·张家港民生
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:0,江苏·张家港新闻
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?checkedby:hlscat.com
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:0,江苏·张家港综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:0 #EXTINF:0,无锡新闻综合
@@ -659,39 +665,39 @@ https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:0,澳门综艺台
 #EXTINF:0,澳门卫星频道
 #EXTINF:0,全国风景总览
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:0,黟县宏村南湖
-https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
 #EXTINF:0,黟县西递牌坊
-https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 #EXTINF:0,黟县西递半山亭俯瞰
 #EXTINF:0,黟县卢村远眺
 #EXTINF:0,滕王阁
 #EXTINF:0,黄山卧云峰
-https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
 #EXTINF:0,黄山梦笔生花
 #EXTINF:0,黄山排云亭
-https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 #EXTINF:0,黄山西海大峡谷
-https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8
 #EXTINF:0,黄山光明顶
 #EXTINF:0,黄山信兴道
 #EXTINF:0,黄山平天矼
 #EXTINF:0,黄山飞来石
 #EXTINF:0,云台山红石硖
 #EXTINF:0,泰山迎客松
-https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
 #EXTINF:0,泰山拱北石
 #EXTINF:0,泰山玉皇顶
-https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
 #EXTINF:0,泰山天街
 #EXTINF:0,千佛山
-https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 #EXTINF:0,渔港码头
 #EXTINF:0,红山
 #EXTINF:0,棋子湾
 #EXTINF:0,武夷山玉女峰
-https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 #EXTINF:0,张家界迷魂台
 #EXTINF:0,雁荡山
 #EXTINF:0,张家界阿凡达悬浮山
@@ -700,69 +706,69 @@ https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
 #EXTINF:0,宠村月沼
 #EXTINF:0,开州
 #EXTINF:0,水长城镜头一
-https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 #EXTINF:0,水长城镜头二
-https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
 #EXTINF:0,水长城镜头三
 #EXTINF:0,水长城镜头四
 #EXTINF:0,滨海新区1
 #EXTINF:0,滨海新区2
-https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
 #EXTINF:0,井冈山
-https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 #EXTINF:0,远眺万佛顶
-https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 #EXTINF:0,两江四案
-https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 #EXTINF:0,长风商务区
 #EXTINF:0,悬空寺全景
-https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 #EXTINF:0,张家界大峡谷
 #EXTINF:0,车八岭
 #EXTINF:0,大坝镇
 #EXTINF:0,火星基地
-https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
 #EXTINF:0,横店影视城
 #EXTINF:0,胡杨林
 #EXTINF:0,达古冰川
 #EXTINF:0,白头叶猴保护区
-https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:0,象鼻山
 #EXTINF:0,广州塔
 #EXTINF:0,黟县宏村月沼
-https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8
 #EXTINF:0,婺源江岭1
-https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8
 #EXTINF:0,黄山始信峰
-https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8
 #EXTINF:0,泰山主峰
-https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8
 #EXTINF:0,泰山大观峰
-https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8
 #EXTINF:0,印象大红袍
-https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8
 #EXTINF:0,武夷山大红袍茶园
-https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8
 #EXTINF:0,张家界将军列队
-https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8
 #EXTINF:0,峨眉云海日出
-https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8
 #EXTINF:0,贡嘎雪山
-https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
 #EXTINF:0,天涯鸟瞰
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8
 #EXTINF:0,天涯石
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8
 #EXTINF:0,南天一柱
-https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8
 #EXTINF:0,雪乡梦幻家园
-https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8
 #EXTINF:0,嘉峪关长城
-https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8
 #EXTINF:0,小布达拉宫
 #EXTINF:0,远眺山庄
 #EXTINF:0,金山
-https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 #EXTINF:0,金砖电视
 #EXTINF:0,亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -801,7 +807,7 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 #EXTINF:0,News Max
 #EXTINF:0,ABC News
 #EXTINF:0,CBS News New York
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:0,半岛英语
 #EXTINF:0,半岛阿语
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -939,13 +945,13 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia0/Source-USTV00
 #EXTINF:0,CBS 3 Omaha(KMTV)
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:0,CBS News | CBSN Chicago
-https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 #EXTINF:0,CBS News | CBSN Denver
-https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4128/CBS.DENVER.OTT
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
 #EXTINF:0,CBS News | CBSN Pittsburgh
-https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4128/CBS.PITTS.OTT
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 #EXTINF:0,CBS News Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:0,CBSN 11 Dallas / Fort Worth TX(KTVT)
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 #EXTINF:0,CBSN 2 Los Angeles CA(KCBS-TV)
@@ -989,7 +995,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:0,Groovy TV | 
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0,HBO(Asia)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
+http://218.202.220.2:5000/nn_live.ts
 #EXTINF:0,HBO 2
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:0,HBO FAMILY
@@ -1027,7 +1033,7 @@ https://content.uplynk.com/channel/edcc7b94bf074eaf8df9fc6454b0086b.m3u8
 #EXTINF:0,Michigan: Cadillac(STIRR)
 #EXTINF:0,Montana: Missoula(STIRR)
 #EXTINF:0,Motorvisison TV | 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:0,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:0,NASA TV 2
@@ -1083,4 +1089,4 @@ https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:0,WTVD TV News
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:0,Wu Tang Collection
-https://stream-us-east0.getpublica.com/playlist.m3u8?network_id=73
+https://stream-us-east0.getpublica.com/playlist.m3u8
