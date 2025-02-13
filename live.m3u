@@ -50,12 +50,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0,Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0,香港 翡翠台
-#EXTINF:0,香港 无线新闻台
-#EXTINF:0,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0,香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:0,CCTV·风云足球
 http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 #EXTINF:0,CCTV·风云音乐
@@ -88,11 +82,23 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:0,CGTN·西班牙语
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:0,CGTN·阿语
+#EXTINF:0,CGTN·阿拉伯语
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:0,CGTN·Europe
 #EXTINF:0,CGTN·纪录
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8 
+#EXTINF:0,中央新影·老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:0,中央新影·发现之旅
+#EXTINF:0,香港 翡翠台
+#EXTINF:0,香港 无线新闻台
+#EXTINF:0,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:0,香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:0,凤凰卫视资讯台
+#EXTINF:0,凤凰卫视中文台
+#EXTINF:0,香港国际财经
 #EXTINF:0,北京卫视
 http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 #EXTINF:0,安徽卫视
@@ -114,7 +120,7 @@ http://223.110.241.204:6610/gitv/live1/G_SHANDONG-CQ/G_SHANDONG-CQ/
 #EXTINF:0,东方卫视
 http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
 #EXTINF:0,东南卫视
-http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:0,深圳卫视
 http://223.110.241.204:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
 #EXTINF:0,天津卫视
@@ -137,7 +143,6 @@ http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
 #EXTINF:0,睢宁资讯
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
-#EXTINF:0,福建卫视
 #EXTINF:0,广西卫视
 http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/
 #EXTINF:0,河南卫视
@@ -180,7 +185,6 @@ http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
 http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:0,国学频道
 http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
-#EXTINF:0,中国交通
 #EXTINF:0,卡酷少儿
 http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
 #EXTINF:0,金鹰卡通
@@ -191,7 +195,7 @@ http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
 #EXTINF:0,嘉佳卡通
 http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:0,咪咕视频
+#EXTINF:0,咪咕直播
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:0,广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8
@@ -239,12 +243,18 @@ http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #EXTINF:0,家有购物
 http://58.221.214.82:9901/tsfile/live/0013_2.m3u8
+#EXTINF:0,电影轮播
+http://cdn.jdshipin.com:8880/huya.php?id=11342390
 #EXTINF:0,海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:0,康巴卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:0,三沙卫视
+http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 #EXTINF:0,兵团卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:0,西藏卫视
-#EXTINF:0,西藏藏语卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:0,北京纪实科教
 #EXTINF:0,纪实人文
 #EXTINF:0,动漫秀场
@@ -265,17 +275,18 @@ http://58.221.214.82:9901/tsfile/live/0013_2.m3u8
 #EXTINF:0,上海新闻综合
 #EXTINF:0,上海都市
 #EXTINF:0,上海ICS外语
+#EXTINF:0,上海新闻
+#EXTINF:0,上海纪实
+#EXTINF:0,上海外语
+#EXTINF:0,上海第一财经
+#EXTINF:0,上海教育
 #EXTINF:0,东方影视
+#EXTINF:0,东方购物
+#EXTINF:0,东方财经
+#EXTINF:0,浦东电视台
 #EXTINF:0,七彩戏剧
 #EXTINF:0,第一财经
 #EXTINF:0,法治天地
-#EXTINF:0,东方财经
-#EXTINF:0,上海教育
-#EXTINF:0,东方购物
-#EXTINF:0,浦东电视台
-#EXTINF:0,中央新影·老故事
-http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:0,中央新影·发现之旅
 #EXTINF:0,福建综合
 #EXTINF:0,福建新闻
 #EXTINF:0,福建电视剧
@@ -324,9 +335,7 @@ http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:0,凤凰中文
 #EXTINF:0,凤凰资讯
 #EXTINF:0,明珠台
-#EXTINF:0,澳视澳门
 #EXTINF:0,星空卫视
-#EXTINF:0,澳亚卫视
 #EXTINF:0,莲花卫视
 #EXTINF:0,人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -334,21 +343,15 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:0,山东体育
 #EXTINF:0,南国都市
 #EXTINF:0,成都公共
-#EXTINF:0,上海新闻
-#EXTINF:0,上海外语
 #EXTINF:0,新视觉台
 #EXTINF:0,全纪实台
-#EXTINF:0,上海纪实
 #EXTINF:0,百事通体育
 #EXTINF:0,北京纪实
 #EXTINF:0,北京卡酷
 #EXTINF:0,茶频道台
-#EXTINF:0,上海第一财经
 #EXTINF:0,上视新闻
 #EXTINF:0,上视外语
 #EXTINF:0,全纪实
-#EXTINF:0,中国教育0
-#EXTINF:0,中国教育-4
 #EXTINF:0,纪实科教
 #EXTINF:0,CETV0
 #EXTINF:0,澜湄国际
@@ -366,9 +369,6 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:0,河北杂技
 #EXTINF:0,延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:0,SiTV欢笑剧场
-#EXTINF:0,中国教育1
-#EXTINF:0,咪咕直播
 #EXTINF:0,北京文艺
 #EXTINF:0,北京影视
 #EXTINF:0,北京财经
@@ -526,7 +526,6 @@ http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:0,江苏·张家港新闻
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:0,江苏·张家港综合
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:0 #EXTINF:0,无锡新闻综合
 #EXTINF:0 #EXTINF:0,无锡娱乐
 #EXTINF:0 #EXTINF:0,无锡都市资讯
@@ -565,17 +564,13 @@ http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
 http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 #EXTINF:0 #EXTINF:0,句容党建频道
 http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
-#EXTINF:0 #EXTINF:0,睢宁综合频道
-http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 #EXTINF:0 #EXTINF:0,扬中新闻频道
 #EXTINF:0 #EXTINF:0,靖江新闻综合
 #EXTINF:0 #EXTINF:0,昆山新闻综合
 #EXTINF:0 #EXTINF:0,赣榆新闻综合
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
-#EXTINF:0,凤凰香港
-#EXTINF:0,中国教育1台
-#EXTINF:0,中国教育2台
-#EXTINF:0,中国教育4台
+#EXTINF:0,中国教育
+#EXTINF:0,中国交通
 #EXTINF:0,海南少儿
 #EXTINF:0,海南文旅
 #EXTINF:0,海南公共
@@ -651,19 +646,19 @@ https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:0,FOX Live Now
 #EXTINF:0,NHK·华语世界(日本)
 #EXTINF:0,RT News(俄罗斯)
-#EXTINF:0,凤凰卫视资讯台
-#EXTINF:0,凤凰卫视中文台
-#EXTINF:0,香港国际财经
 #EXTINF:0,无线财经
 #EXTINF:0,无线新闻
-#EXTINF:0,HOY资讯
+#EXTINF:0,HOY 资讯
 #EXTINF:0,HOY TV
-#EXTINF:0,澳视澳门台
-#EXTINF:0,澳视葡文台
-#EXTINF:0,澳门资讯台
-#EXTINF:0,澳门体育台
-#EXTINF:0,澳门综艺台
-#EXTINF:0,澳门卫星频道
+#EXTINF:0,澳门卫视
+http://1b6467f415.iok.la:9931/tsfile/live/1120_1.m3u8
+#EXTINF:0,澳视澳门
+https://stream1.freetv.fun/272b491cb7edf448a56c75a2677cdfa0f9427bc87d01f02765f5aff658dadeba.m3u8
+#EXTINF:0,澳亚卫视
+#EXTINF:0,澳视葡文
+#EXTINF:0,澳门资讯
+#EXTINF:0,澳门体育
+#EXTINF:0,澳门综艺
 #EXTINF:0,全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:0,黟县宏村南湖
@@ -780,7 +775,8 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
 http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
 #EXTINF:0,CETV·4
 http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
-#EXTINF:0,NBC
+#EXTINF:0,CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0,PAC 12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0,Fox News
@@ -955,11 +951,9 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:0,CBSN 11 Dallas / Fort Worth TX(KTVT)
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 #EXTINF:0,CBSN 2 Los Angeles CA(KCBS-TV)
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:0,CBSN Baltimore
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:0,CBSN Chicago
-https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 #EXTINF:0,CBSN Dallas
 http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 #EXTINF:0,CBSN Minnesota
@@ -969,11 +963,9 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:0,CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:0,CBSN Pittsburgh
-https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 #EXTINF:0,CBSN Sacramento
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 #EXTINF:0,CBSNews Denver
-https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
 #EXTINF:0,Charge! | 
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0,Charge! USA | 
