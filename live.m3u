@@ -71,7 +71,6 @@ http://180.213.174.225:9901/tsfile/live/1053_1.m3u8
 #EXTINF:0,CCTV·第一剧场
 http://jf.jxx2023.work:40446/tsfile/live/1049_1.m3u8
 #EXTINF:0,CCTV·世界地理
-http://171.117.183.51:9003//hls/59/index.m3u8
 #EXTINF:0,CCTV·兵器科技
 http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
 #EXTINF:0,CGTN·英语
@@ -198,13 +197,10 @@ http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:0,咪咕直播
 http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:0,广州新闻
-http://tencentplay.gztv.com/live/xinwen.m3u8
 #EXTINF:0,广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8
 #EXTINF:0,广州影视
 http://tencentplay.gztv.com/live/yingshi.m3u8
 #EXTINF:0,广州南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8
 #EXTINF:0,中国功夫
 http://ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
 #EXTINF:0,爱情喜剧
@@ -455,7 +451,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:0,兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 #EXTINF:0,德清文化生活
-http://live.yingxi.tv/channel2/sd/live.m3u8
 #EXTINF:0,苍南新闻综合
 http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:0,洞头综合频道
@@ -722,7 +717,6 @@ https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
 #EXTINF:0,车八岭
 #EXTINF:0,大坝镇
 #EXTINF:0,火星基地
-https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
 #EXTINF:0,横店影视城
 #EXTINF:0,胡杨林
 #EXTINF:0,达古冰川
@@ -768,7 +762,6 @@ https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
 #EXTINF:0,亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0,CETV·1
-http://223.110.241.204:6610/gitv/live1/G_CETV0/G_CETV0/
 #EXTINF:0,CETV·2
 http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
 #EXTINF:0,CETV·3
@@ -820,9 +813,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,BBC World News 
 #EXTINF:0,Bloomberg TV+ 4K
 #EXTINF:0,BloombergTV 
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland0/Source-EUTVqvs00000_live.m3u8
 #EXTINF:0,BloombergTV
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland0/Source-EUTVqvs-7000_live.m3u8
 #EXTINF:0,Bloomberg HT 
 https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:0,Bloomberg TV Asia
@@ -850,7 +841,6 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:0,韩·阿里郎Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0,韩·JobPlusTV
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:0,韩·GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:0,韩·KoreaTV
@@ -934,7 +924,6 @@ https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 #EXTINF:0,Alhorreya TV
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:0,Bloomberg TV
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia0/Source-USTV00000_live.m3u8
 #EXTINF:0,Bloomberg TV Europe
 #EXTINF:0,California: Fresno-Visalia
 #EXTINF:0,California: Los Angeles
@@ -987,19 +976,14 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:0,Groovy TV | 
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:0,HBO(Asia)
-http://218.202.220.2:5000/nn_live.ts
 #EXTINF:0,HBO 2
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:0,HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:0,HTV 1 Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd06x9-2-a/playlist.m3u8
 #EXTINF:0,HTV 2 - Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd06x9-2-b/HasBahCa.m3u8
 #EXTINF:0,HTV 2 Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd06x9-2-b/playlist.m3u8
 #EXTINF:0,HTV Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd06x9-2-a/chunklist_w444601733_b1628000.m3u8
 #EXTINF:0,NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:0,Lifetime
@@ -1025,7 +1009,6 @@ https://content.uplynk.com/channel/edcc7b94bf074eaf8df9fc6454b0086b.m3u8
 #EXTINF:0,Michigan: Cadillac(STIRR)
 #EXTINF:0,Montana: Missoula(STIRR)
 #EXTINF:0,Motorvisison TV | 
-https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:0,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:0,NASA TV 2
@@ -1066,11 +1049,9 @@ https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:0,WCCA-TV(Worcester)
 http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:0,White Plains Community Media
-https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x30-b/playlist.m3u8
 #EXTINF:0,WLS TV News
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
 #EXTINF:0,WPEC CBS12 News
-https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 #EXTINF:0,WPVI-TV News
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
 #EXTINF:0,WSVN Fox 7 Miami
@@ -1081,4 +1062,3 @@ https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:0,WTVD TV News
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 #EXTINF:0,Wu Tang Collection
-https://stream-us-east0.getpublica.com/playlist.m3u8
